@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Macros</string>
+    <string name="a11y_desc">Lets Macros run actions such as lock screen, screenshot and touch block from your power-button shortcuts.</string>
+</resources>
